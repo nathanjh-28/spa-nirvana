@@ -1,0 +1,1 @@
+console.log("Like the fool I am and I'll always be, I got a dream.")
