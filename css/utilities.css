@@ -1,9 +1,13 @@
 
 :root {
-    --primary-color: #00BDF9;
+    --primary-color: #804cad;
     --secondary-color: green;
 }
 
+/* 
+2. #804cad
+1. #7c00e7
+*/
 
 /* Text Colors */
 
@@ -23,7 +27,7 @@
     border-radius: 5px;
 }
 
-.btn:hover { opacity: 0.9; }
+.btn:hover { opacity: 0.9; border-color: var(--primary-color); }
 
 .btn-primary, .bg-primary {
     background: var(--primary-color);
@@ -133,7 +137,7 @@
 }
 
 .flex-grid .column {
-    flex: 50%;
-    max-width: 50%;
+    flex: 25%;
+    max-width: 25%;
     padding: 0 4px;
 }
