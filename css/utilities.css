@@ -107,3 +107,33 @@
 .flex-columns h4 { margin-bottom: 10px; }
 .flex-columns p { margin: 20px 0; }
 
+/* Section Header */
+
+.section-header{
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.section-header h2 {
+    font-size: 40px;
+    margin: 20px 0;
+}
+
+.section-padding{padding: 20px 20px 40px;}
+
+/* Flex Grid */
+.flex-grid .row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+.flex-grid .column {
+    flex: 50%;
+    max-width: 50%;
+    padding: 0 4px;
+}
