@@ -79,7 +79,7 @@ _______________________________________________________________________________*
 _______________________________________________________________________________*/
 
 .hero {
-    background: url('/spa-nirvana-images/photo-1488345979593-09db0f85545f.jpeg') no-repeat center center/cover;
+    background: url('/spa-nirvana-images/alex-bertha-Jyg7xHRmXiU-unsplash.jpg') no-repeat center center/cover;
     height: 100vh;
     position: relative;
     color: #fcfcfc;
@@ -171,7 +171,7 @@ _______________________________________________________________________________*
     align-items: center;
     justify-content: center;
     text-align: center;
-    height: 200px;
+    height: 100px;
 }
 
 .footer a {
